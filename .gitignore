@@ -1,0 +1,75 @@
+# Environment variables (IMPORTANT - contains credentials!)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+env/
+
+# Airflow
+airflow/logs/
+airflow/*.db
+airflow/*.pid
+airflow/airflow.cfg
+airflow/webserver_config.py
+airflow/*.log
+
+# Data files (scraped data - keep local, don't commit)
+data/*.csv
+data/archive/*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Selenium
+selenium_*.html
+*.png
+*.jpg
+screenshots/
+
+# Keep directory structure but ignore contents
+!data/.gitkeep
+!data/archive/.gitkeep

@@ -1,0 +1,7 @@
+{
+  "linkedin_job_queries": "Software Engineer,Data Scientist,ML Engineer,Product Manager,Systems Engineer",
+  "linkedin_locations": "San Francisco,New York,Seattle,Austin,Boston",
+  "linkedin_time_filter": "24hrs",
+  "linkedin_max_jobs_per_search": "10",
+  "linkedin_output_dir": "/opt/airflow/data"
+}
