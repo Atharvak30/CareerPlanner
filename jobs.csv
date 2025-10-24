@@ -1,0 +1,1182 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-cde4341bfe452e7d","indeed","https://www.indeed.com/viewjob?jk=cde4341bfe452e7d","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200626543-0157&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200626543-0157%2Fgraphics-gpu-performance-analysis-engineer%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D14552cf5-acc0-11f0-9a84-731634b6da08%26rx_job%3D200626543-0157%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DHRDWR","Graphics (GPU) Performance Analysis Engineer","Apple","Austin, TX, US","2025-10-19","","","","","","",False,"","","","","Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something \\- you’ll add something. Do you intrinsically see the importance in every detail? As part of our Silicon Technologies group, you’ll help design and manufacture our next\\-generation, high\\-performance, power\\-efficient GPU! You’ll ensure Apple products and services can seamlessly and expertly handle the tasks that make them beloved by millions. Joining this group means crafting and building the technology that fuels Apple’s devices. Together, we enable our customers to do all the things they love with their devices! In this team, we are passionate about writing code for performance modeling for GPUs and the performance model infrastructure. This includes working with architects and designers to understand the units being modeled.  
+
+  
+
+**Description**  
+
+  
+
+As a GPU Performance Analysis Engineer, your responsibilities will include the following: Developing performance test plans to validate GPU performance. Analyzing performance issues to identify hardware and software problems. Proposing novel hardware solutions to improve GPU performance. Developing tools to aid in the efficient measurement, communication and improvement of GPU performance. Validating the functionality and quantify the performance benefit of the features and algorithms implemented in hardware and software.  
+
+  
+
+**Minimum Qualifications**  
+
+* Experience in computer architecture
+* Experience with Verilog, C and C\\+\\+
+* Experience with scripting language Python.
+* Minimum BS degree.
+
+  
+
+**Preferred Qualifications**  
+
+* Experience in GPU architecture is a plus, but not required
+* Ability to work well in a team and be productive under aggressive schedules.
+* Excellent communications skills, self\\-motivated and well organized.
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-5129766e5e124416","indeed","https://www.indeed.com/viewjob?jk=5129766e5e124416","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200625596-0157&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200625596-0157%2Fsoftware-development-engineer-security%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D0ecb54d3-acc0-11f0-9a84-41df8a61a68f%26rx_job%3D200625596-0157%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DSFTWR","Software Development Engineer - Security","Apple","Austin, TX, US","2025-10-19","fulltime","","","","","",False,"","","","","Imagine what you can do here. Apple is a place where extraordinary people gather to do their lives best work. Together we create products and experiences people once couldn’t have imagined, and now, can’t imagine living without. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do.  
+
+  
+
+**Description**  
+
+  
+
+APPLE INC has the following available in Austin, Texas. Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Design and develop security services that run in a highly scalable compute environment to secure critical internal Apple services. Maintain existing production services including collaborating in troubleshooting and making improvements to help improve service reliability. Work cross functionally with engineering teams across Apple to help them use our teams’ services and improve the security posture of their infrastructure and services. Participate in architecture discussions to review design decisions for services. Stay up to date on security industry trends by staying updated on the latest technologies as they are released or discussed publicly (blogs, etc.), to help our team make informed decisions about new technologies to adopt. 40 hours/week.  
+
+  
+
+**Minimum Qualifications**  
+
+* Bachelor’s degree or foreign equivalent in Information Systems, Computer Science, Software Engineering or related field and 4 years of experience in the job offered or related occupation.
+* 4 years of experience in each of the following skills is required:
+* Design and develop highly scalable security services
+* Experience operating security services at enterprise\\-scale, including proxies and services that interact with Certificate Authorities
+* Experience with security PKI infrastructure and digital certificates
+* Deployed and configured infrastructure using CI/CD pipelines and utilized X.509 \\& Python
+* Experience working with PKI administration; using keys and certificates to secure data at rest and in transit
+* Experience building cloud services and distributed systems (AWS, Kubernetes, etc.)
+* Experience designing engineering solutions for performance and quality
+
+  
+
+**Preferred Qualifications**  
+
+* N/A
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-62e8a91f70c2c21d","indeed","https://www.indeed.com/viewjob?jk=62e8a91f70c2c21d","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200625564-0157&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200625564-0157%2Fsoftware-development-engineer%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D0957c331-acc0-11f0-9a84-9be4bc51e864%26rx_job%3D200625564-0157%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DHRDWR","Software Development Engineer","Apple","Austin, TX, US","2025-10-19","fulltime","","","","","",False,"","","","","Imagine what you can do here. Apple is a place where extraordinary people gather to do their lives best work. Together we create products and experiences people once couldn’t have imagined, and now, can’t imagine living without. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do.  
+
+  
+
+**Description**  
+
+  
+
+APPLE INC has the following available in Austin, Texas. Understand the latest GPU design specifications provided by architects. Develop GPU Driver software using C and C\\+\\+ programming languages to validate the GPU designs. Define, author, and troubleshoot APIs for GPU features with a focus on architectural, functional, and performance aspects. Develop production\\-grade automated processes using python, SQL for verifying our code base with a continuous integration system. Provide support to GPU hardware teams throughout the model, design, and deployment phases, both before and after silicon production. Offer assistance to GPU software teams during production driver implementation. Create production quality automated flows for graphics core verification. Develop and maintain software functional test suites for driver features. Develop and maintain tools for analyzing and debugging complex failures. 40 hours/week.  
+
+  
+
+**Minimum Qualifications**  
+
+* Master's degree or foreign equivalent in Computer Science, Electrical Engineering, Electronics Engineering, or a related field and 2 years of experience in the job offered or related occupation.
+* Experience and/or education must include:
+* Utilizing C, C\\+\\+ and Python to work on multi\\-language codebases.
+* Developing device drivers (or embedded systems software) for ARM processors.
+* Experience in HW and SW interaction using C and C\\+\\+.
+* Utilizing Jenkins for continuous integration testing of software.
+* Automating the execution of software testing workflows on macOS or Linux.
+* Debugging complex failures using tools including GDB, LLDB, Xcode, or Visual Studio.
+* Using software versioning, and performing releases using Git.
+
+  
+
+**Preferred Qualifications**  
+
+* N/A
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-576fdb7f3f289186","indeed","https://www.indeed.com/viewjob?jk=576fdb7f3f289186","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200625841-0157&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200625841-0157%2Fsoftware-engineer-applications%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D128c7aff-acc0-11f0-9a84-d90fcdfe42cb%26rx_job%3D200625841-0157%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DCORSV","Software Engineer - Applications","Apple","Austin, TX, US","2025-10-19","fulltime","","","","","",False,"","","","","Imagine what you can do here. Apple is a place where extraordinary people gather to do their lives best work. Together we create products and experiences people once couldn’t have imagined, and now, can’t imagine living without. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do.  
+
+  
+
+**Description**  
+
+  
+
+APPLE INC has the following available in Austin, Texas. Architect, design, implement and support highly available and scalable enterprise solutions that can match Apple volumes. Accountable for landscape management, availability and performance of all HANA systems. Coordinate with different teams in installation, maintenance and upgrades of HANA systems. Support HANA systems throughout the lifecycle of projects from time to time. Ensure integrity of HANA databases by designing and applying appropriate security settings. Involved in proactive database monitoring and performance tuning of large HANA systems. Provide technical upgrades functional and technical enhancements. Provide training and knowledge transfer for the team. Troubleshoot problems with connectivity, web services, and overall aspects of the SAP solution. Install, upgrade and maintain HANA databases. Collaborate with Project Managers, Operations team and service providers. Understand the SAP HANA on\\-premise and cloud environment. Drive for continuous improvement as a team member. 40 hours/week.  
+
+  
+
+**Minimum Qualifications**  
+
+* 8 years of experience in the job offered or related occupation
+* 6 years of experience with each of the following skills is required:
+* Architecting and maintaining business intelligent SAP HANA solutions for systems handling over 42TB of in\\-memory data
+* Optimizing data access of complex queries using HANA performance tools including using SQL Plan Cache, Explain Plan, and Performance Trace tools
+* Integrating SAP HANA with external systems via SDI, SDA, and ETL tools including SLT
+* Architecting high performance HANA database with over 90TB to support largest implementation of S/4 HANA in the world
+* Streamlining monitoring and alerts via SAP HANA Studio, SAP Focused Run, and custom Grafana dashboards.
+* Collaborating with cross\\-functional teams including Basis, ABAP developers, and business analysts to ensure optimal architecture and data integrity.
+* Implementing disaster recovery, backup, and high availability solutions using HANA System Replication
+
+  
+
+**Preferred Qualifications**  
+
+* N/A
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-fb5791163954f2c9","indeed","https://www.indeed.com/viewjob?jk=fb5791163954f2c9","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200626412-0157&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200626412-0157%2Fsoftware-development-engineer-test%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D10ff24a3-acc0-11f0-9a84-29a6edd29610%26rx_job%3D200626412-0157%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DSFTWR","Software Development Engineer - Test","Apple","Austin, TX, US","2025-10-19","fulltime","","","","","",False,"","","","","Imagine what you can do here. Apple is a place where extraordinary people gather to do their lives best work. Together we create products and experiences people once couldn’t have imagined, and now, can’t imagine living without. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do.  
+
+  
+
+**Description**  
+
+  
+
+APPLE INC has the following available in Austin, Texas. Lead the testing strategy for DCOTA, determining the most appropriate types of testing for our systems, the tools we should use to test our systems and to help drive others to understand the changes in our system to be able to validate changes to a high standard. Design, implement and support test tooling and frameworks to improve efficiency of a team of quality engineers when writing automated tests. Work on Continuous Integration/Continuous Deployment pipelines to ensure automation and quality checks are performed throughout the development cycle. Participate in the design and architecture of any software change, to understand both the technical and non\\-technical details to understand what is being built, why it is being built and how to validate correctness with a focus on quality. Interact with various stakeholders and users of our systems to understand better how they are used, the purpose of features and their potential failure points to improve what is tested and to influence for changes to systems to improve them. Document test scope/plan for features, working with various stakeholders to agree upon them, write and execute both manual and automated test cases as well as organizing others in the team to do so. Lead in full autonomy their whole project: build plans with internal and external stakeholders, manage dependencies, risks, and mitigations. Perform program\\-level reporting of progress on deliverables, including to senior leadership. Manage vendors: financial accountability on vendors (time and material results), technical leading, and work allocation. 40 hours/week.  
+
+  
+
+**Minimum Qualifications**  
+
+* Master’s Degree or foreign equivalent in Computer Science and 4 years of experience in the job offered or related occupation
+* 4 years of experience with each of the following skills is required:
+* Utilizing Java to write testing frameworks for API and UI tests.
+* Building Continuous Integration/Continuous Deployment pipelines with Jenkins to automatically execute tests and reporting of quality metrics for applications.
+* Utilizing JUnit and TestNG to write automated tests to validate correctness of software systems.
+* Utilizing Webdriver to simulate user interactions with both web and iOS applications for regression testing of User Interfaces.
+* Writing Test Scenarios and Plans to capture and validate business expectations for software.
+* Leading, planning and delivering projects to support Quality Assurance of software projects on iOS, Web and Server.
+* Performing end to end triage, categorization, remediation and follow up of application/environment issues for customer issues and test case failures.
+* Writing and executing performance testing scripts and performing analysis on the results to determine how much computing resources are required to support a target number of devices accessing a particular application.
+* Performing cost optimization using performance testing with applications in Amazon Web Services.
+* Performing analysis of testing tools according to criteria including features, ease\\-of\\-use and maintainability to implement a testing strategy.
+
+  
+
+**Preferred Qualifications**  
+
+* N/A
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-322ad975da4121c1","indeed","https://www.indeed.com/viewjob?jk=322ad975da4121c1","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200616791-0240&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200616791-0240%2Fsystems-design-engineer-field-diagnostic-tools-systems-engineering%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D06a59b95-acc0-11f0-9a84-7381f062bb9d%26rx_job%3D200616791-0240%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DCUST","Systems Design Engineer, Field Diagnostic Tools & Systems Engineering","Apple","Austin, TX, US","2025-10-19","","","","","","",False,"","","","","Imagine what you could do here. At Apple, great ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there’s no telling what you could accomplish. This is a role of a software engineer who will be responsible for building highly scalable and available AppleCare diagnostics tools set.  
+
+  
+
+**Description**  
+
+  
+
+The Field Service Diagnostics Engineering group is part of AppleCare organization. We help build and supports all hardware diagnostics used by support technicians for Apple products in Apple retail and other service channels. We strive hard to deliver the best possible customer and technician experience by providing high\\-quality, easy to use tools to support all Apple products. As part of the team you will be responsible for developing and maintaining our existing diagnostics systems and tools, diagnostic scripts and configuration data. They will have to work with multi\\-functional engineering teams across Apple to gather requirements, define, develop, and help test the next generation of diagnostic and troubleshooting tools for AppleCare. An ideal candidate will have a strong understanding of programming scalable systems and systems.  
+
+  
+
+**Minimum Qualifications**  
+
+* Computer Science or EECS BS/MS Degree
+* 3\\+ years of software development experience
+* 2\\+ years experience with scripting languages such as Lua, Python, bash
+* 2\\+ years experience working with relational DB such as Postgres, mySQL
+
+  
+
+**Preferred Qualifications**  
+
+* Experience in application unit testing and deployment
+* Experience in developing web backend services using languages such as Go (golang), Javascript (node.js), or similar
+* Experience in frontend development is preferred (react programming language)
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-a02b137514beafe7","indeed","https://www.indeed.com/viewjob?jk=a02b137514beafe7","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200626069-0157&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200626069-0157%2Fsoftware-application-support-engineer-retail-engineering%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D13cf342b-acc0-11f0-9a84-075ac6f14e1d%26rx_job%3D200626069-0157%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DSFTWR","Software Application Support Engineer- Retail Engineering","Apple","Austin, TX, US","2025-10-19","","","","","","",False,"","","","","At Apple, we don’t just build products \\- we revolutionize entire industries. Our innovation is driven by the diverse ideas and people that form the foundation of everything we do, from cutting\\-edge technology to our environmental leadership. As part of our Retail Applications IT Support team, you will play a crucial role in detecting and resolving issues that impact our global retail environment. If you’re passionate about solving complex business problems through technology and collaboration, this may be the perfect opportunity for you.  
+
+  
+
+**Description**  
+
+  
+
+In this role, you will collaborate closely with engineers from various technical backgrounds to resolve issues across Apple’s retail applications. As a hands\\-on, proactive problem solver, you will challenge the status quo, continuously learn, and strive for excellence in every aspect of your work. The ideal candidate will be skilled at diagnosing and resolving critical incidents while partnering with engineering teams to enhance product delivery and customer support. Apple is looking for an individual that takes pride in crafting solutions to enhance product delivery and customer support. This engineer needs to work closely with cross\\-functional teams to identify issues and partner with the engineering teams to properly get them addressed. Critical thinking, documenting, and communicating within the team and cross\\-functionally is critical to the success of the role. Their role will include: Handling and debugging incidents reported by an international user base, prioritizing based on impact, and ensuring timely resolution. Managing and leading a global team of consultants across the US, India, Singapore and the UK to ensure effective execution of the support functions. Leading and contributing to the development of functional requirements, technical specifications, and support documentation for automation and process improvements. Conducting root cause analysis, logging defects, and collaborating with engineering \\& leadership teams to prioritize fixes. Assisting with the support strategy for new product and feature launches. Collaborating on cross\\-functional process enhancements to improve efficiency and service quality. Participating in an on\\-call rotation to support applications and services, which may include non\\-standard hours and weekend coverage.  
+
+  
+
+**Minimum Qualifications**  
+
+* 4\\+ years of experience supporting critical, customer\\-facing systems in a production environment.
+* Hands\\-on experience with incident management tools such as ServiceNow or Jira.
+* Proven problem\\-solving ability and experience identifying root causes from diverse data sources (logs, telemetry, customer feedback).
+
+  
+
+**Preferred Qualifications**  
+
+* Previous experience supporting eCommerce platforms or Retail/Payment systems.
+* Familiarity with Project Management principles, including Agile methodology and D2P (Development to Production) processes.
+* Experience with data visualization and analysis tools such as Tableau or Power BI.
+* Prior experience in Retail environments or supporting retail applications is highly advantageous.
+* Proficiency in ITIL practices, including incident, problem, and change management.
+* Experience with monitoring tools (e.g., Splunk), Application Performance Management (APM), and observability platforms.
+* Bachelor’s degree or higher in Computer Science, Information Technology, or a related field, or similar work experience
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-ddff9fd2d85e49eb","indeed","https://www.indeed.com/viewjob?jk=ddff9fd2d85e49eb","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200614878-0240_rxr-1&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200614878-0240%2Fui-engineer-aidp%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D4a388a4b-ac91-11f0-a1ae-817c95673472%26rx_job%3D200614878-0240_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DCORSV","UI Engineer, AiDP","Apple","Austin, TX, US","2025-10-18","","","","","","",False,"","","","","Imagine what you could do here. At Apple, extraordinary ideas have a way of becoming industry leading products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Data Services team is looking for a creative and motivated UI Engineer with excellent problem solving and interpersonal skills. The work we do here has a large impact on Apple. It enables our internal businesses to do their best work, \\& provide rich, engaging experiences to our customers and partners. We would love to hear from you if you're enthusiastic, highly motivated, and want to make an impact!  
+
+  
+
+**Description**  
+
+  
+
+The ideal candidate is passionate about Apple products and technologies and is open to the possibility of being pushed outside of his or her comfort zone. Passion for building a rich and innovative end to end user experience. You have initiative to go learn new technologies quickly and possess excellent interpersonal and communication skills. You have an attention to detail and a dedication to deliver a high\\-quality product is essential others recognize in your output. You are self\\-motivated; driven to exceed commitments. You also need to exude strong collaboration skills and possess a strong passion to work in a growing, energizing environment of innovation. If you want to be part of this amazing team, this position is for you.  
+
+  
+
+**Minimum Qualifications**  
+
+* Bachelor's Science Computer Science or similar
+* 3\\+ years of production environment development with JavaScript frameworks (React, Angular, Vue, etc.) and CSS libraries (Tailwind, Bootstrap, etc.) for responsive, scalable designs.
+* Build pixel\\-perfect, accessible, and robust web interfaces using tools like Figma or React, ensuring WCAG compliance.
+* Developed Single Page Applications with React and Vue, leveraging state management (Redux, Zustand) for seamless user experiences.
+* Collaborative development and dependency management experience preferably Git, NPM, Yarn or similar
+* Passionate about crafting innovative, user\\-centric experiences that drive engagement and usability.
+* Skilled in debugging with browser dev tools, writing tests with Java based tools (i.e, Jest, etc.) and optimizing UI performance through lazy loading and code splitting.
+
+  
+
+**Preferred Qualifications**  
+
+* Independently drive UI projects from design handoff to production, delivering performant and accessible web interfaces
+* Passion for building a rich and innovative end to end user experience
+* Strong critical thinking and communication skills, collaborating effectively with designers and backend teams to deliver cohesive products
+* Offer post\\-deployment production support and maintenance for UI components, ensuring functionality, availability, and performance.
+* Collaborate effectively with globally distributed teams, including designers, developers, and product managers, to deliver cohesive, high\\-quality user interfaces while accommodating diverse time zones and cultural perspectives.
+* Manage deployments by ensuring front\\-end compatibility and maintain UIs through bug fixes, accessibility updates, and performance optimizations
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-ac47caae9bfcc3c1","indeed","https://www.indeed.com/viewjob?jk=ac47caae9bfcc3c1","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200621756-0157_rxr-1&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200621756-0157%2Fsoftware-engineer-aidp-reliability-engineering-is-t-early-career-opportunities%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D439c301b-ac91-11f0-a1ae-739d1a5fe07f%26rx_job%3D200621756-0157_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DSFTWR","Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities","Apple","Austin, TX, US","2025-10-18","","","","","","",False,"","","","","The Applied Machine Learning team in AI and Data Platform org has been at the forefront of accelerating digital transformation through machine learning across Apple's enterprise ecosystem. We build and operate ML, GenAI, Inference and Data Platforms and Services to provide a comprehensive suite of capabilities\\-serving business\\-critical needs across Apple’s enterprise. We work on interesting and hard challenges related to scale and performance across diverse set of open source and cutting edge technologies. We are looking for a talented engineer to join our team and bring passion for building and operating large scale platform and distributed systems leveraging cutting edge open source technologies across hybrid cloud environments!  
+
+  
+
+**Description**  
+
+  
+
+We are looking for engineers who have strong coding skills and computer science foundation with passion for building resilient and highly performant distributed systems. As a software engineer in AiDP reliability engineering you will work on one or many projects related to GenAI, ML, Inference and Big data platform. You will: \\- Build, enhance, and maintain multi\\-tenant systems employing diverse technologies \\- Collaborate with multi\\-functional teams to deliver impactful customer features \\- Lead projects through full lifecycle, from design discussions to release delivery \\- Operate, scale, and optimize high\\-throughput and highly concurrent services \\- Diagnose, resolve, and prevent production and operational challenges We are looking for enthusiastic engineers with interest in one of the following areas: \\- ML Engineers \\- Big Data Engineer \\- Platform Reliability Engineer  
+
+  
+
+**Responsibilities**  
+
+* The successful candidate will be amenable to working in an exciting, fast paced, dynamic, collaborative environment. The person filling this position must be a hands\\-on, hardworking, self\\-motivated developer with strong initiative. You will have a real passion for extraordinary user experiences and an eye for details.
+
+  
+
+**Minimum Qualifications**  
+
+* Bachelor’s Degree in Computer Science, Computer Engineering or equivalent technical degree
+* Proficient programming knowledge in one of the following areas: Python, Java, or Go Programming and ability to read and explain open source codebase
+* Good foundation of Operating Systems, Networking and Security Principles
+* Relevant Internship experience
+
+  
+
+**Preferred Qualifications**  
+
+* Excellent analytical \\& problem solving skills
+* Exposure to Model Training or Fine Tuning methodologies
+* Exposure to Spark/Flink/Trino/Iceberg and other modern cloud native big data technologies
+* Exposure to Kubernetes and other cloud native technologies like Flux/Argo CD
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-44f7b107745a4fde","indeed","https://www.indeed.com/viewjob?jk=44f7b107745a4fde","https://careers.skyworksinc.com/job/Austin-IC-Development-%28Software%29-Summer-Intern-%28May-'26-Aug-'26%29-TX-73301/1318385200/?feedId=177100&utm_source=Indeed&utm_campaign=Skyworks_Indeed","IC Development (Software) - Summer Intern (May '26 - Aug '26)","Skyworks Solutions","Austin, TX, US","2025-10-18","internship","direct_data","hourly",22.0,42.0,"USD",False,"","","","accommodations@skyworksinc.com","If you are looking for a challenging and exciting career in the world of technology, then look no further. Skyworks is an innovator of high\\-performance analog semiconductors whose solutions are powering the wireless networking revolution. Through our broad technology expertise and one of the most extensive product portfolios in the industry, we are Connecting Everyone and Everything, All the Time.
+
+  
+
+At Skyworks, you will find a fast\\-paced environment with a strong focus on global collaboration, minimal layers of management, and the freedom to make meaningful contributions in a setting that encourages creative thinking. We are excited about the opportunity to work with you and glad you want to be part of a team of talented individuals who together are changing the way the world communicates.
+
+
+Requisition ID: 75987
+
+**Job Description**
+-------------------
+
+
+The Timing Business R\\&D team within the MSS division is at the forefront of developing cutting\\-edge technologies that power wired and wireless connectivity around the world. The IC Development Software team is seeking a talented Summer Intern for 2026, ideally pursuing a degree in Computer Science, Computer Engineering, or Electrical Engineering with a strong interest in software development.
+
+
+Our projects span a wide range of areas, including new product development, desktop and firmware application development, command\\-line interface (CLI) tools, API development to control IC devices and instruments, and database integration.
+
+  
+
+Term: Summer Intern (May '26 to August '26\\)
+
+**Responsibilities**
+--------------------
+
+
+As a Software Engineering Intern, you will be involved in the full development cycle and contribute to the following:
+
+* Developing new applications and supporting existing ones using best coding practices.
+* Working independently on a personal project.
+* Meeting daily with your mentor to learn and receive guidance.
+* Collaborating with other team members.
+* Solving key mixed\\-signal challenges through software solutions.
+* Presenting periodic project updates and receiving feedback from leadership.
+**Required Experience and Skills**
+----------------------------------
+
+
+We hope you’ll enjoy learning about our timing technology, company culture, and networking with professionals across the organization. This internship is a great opportunity for anyone interested in rigorous training in software development within the semiconductor industry.
+
+
+Our ideal candidate is an undergraduate or graduate student majoring in Computer Science, Computer Engineering, or Electrical Engineering, with the following qualifications:
+
+* Strong understanding of object\\-oriented programming.
+* Proficiency in at least one high\\-level language: C\\#, Python, C/C\\+\\+, or Java.
+* Experience with version control systems such as Git or SVN.
+* Excellent written and verbal communication skills.
+**Additional Preferred Skills**
+-------------------------------
+
+* Experience with SQL or NoSQL databases.
+* Familiarity with low\\-level firmware programming.
+* Background in Electrical Engineering, particularly digital logic.
+
+  
+
+\\#LI\\-DJ1
+
+
+The typical pay range for an Engineering intern across the U.S. is currently USD $26\\.00 \\- $47\\.50 per hour and for a Non\\-Engineering intern across the U.S. is currently USD $22\\.50 \\- $42\\.00 per hour. Starting pay will depend on level of education, the ultimate job duties and requirements, and work location. Skyworks has different pay ranges for different work locations in the U.S.
+
+  
+
+Skyworks is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law. Skyworks strives to create an accessible workplace; if you need an accommodation due to a disability, please contact us at accommodations@skyworksinc.com.","","https://www.indeed.com/cmp/Skyworks-Solutions","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b945245ef91c0ec15e34b3cd0ebb1afb","https://www.skyworksinc.com","Irvine, CA","5,001 to 10,000","$1B to $5B (USD)","Skyworks Solutions is an innovator of high performance analog semiconductors.","","","","","",""
+"in-915ab2c6591289af","indeed","https://www.indeed.com/viewjob?jk=915ab2c6591289af","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200621754-0157_rxr-1&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200621754-0157%2Ffull-stack-software-engineer-information-security%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D1c17704c-abba-11f0-a0bf-17cc6527b0d8%26rx_job%3D200621754-0157_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DCORSV","Full Stack Software Engineer - Information Security","Apple","Austin, TX, US","2025-10-17","","","","","","",False,"","","","","Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you can accomplish. We are seeking an extraordinary software developer who is passionate about Information Security, and can thrive in a fast\\-paced environment where both individual drive and team collaboration are keys to success. This is a technical hands\\-on role that is focused on delivery of technologies used to protect Apple.  
+
+  
+
+**Description**  
+
+  
+
+Our team is highly collaborative, and works closely with partner teams to deliver the best results for Apple. We strive to find the best solution while also considering the need to get things done efficiently for each engineering challenge we face. This role will work closely with developers and users of our platforms to ensure the successful design, development, and delivery of product objectives.  
+
+  
+
+**Minimum Qualifications**  
+
+* Experience in software engineering, or a related field.
+* Proficiency in two or more of the following languages: Python, Typescript, SQL, Golang, and/or Java
+* Experience developing REST/GraphQL/gRPC/tRPC APIs
+* Experience working in a hybrid cloud environment leveraging AWS, GCP, Azure, or OpenStack with Docker andKubernetes
+* Excellent software design, problem solving and debugging skills
+
+  
+
+**Preferred Qualifications**  
+
+* Ability to cultivate an environment that emphasizes collaboration, accountability, and excellence
+* Excellent written and verbal communication skills
+* Ability to work under pressure and manage difficult situations in a dynamic work environment
+* Thrives in fast\\-paced environment and adopts a learning mindset; loves learning new technologies
+* Experience leveraging ORMs to interact with databases efficiently
+* Experience with one one or more frontend frameworks such as React, Vue, Svelte, or Angular
+* Passion for high\\-quality code, tests, CI/CD, documentation, and production services
+* Track record of driving improvements in code quality, performance, etc.
+* Experience successfully adapting and applying Scrum/Agile development methodologies
+* Bachelor’s degree in Computer Science, or a related field, or equivalent practical experience
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-5dc169c35b38990c","indeed","https://www.indeed.com/viewjob?jk=5dc169c35b38990c","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200617415-0157_rxr-1&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200617415-0157%2Fsoftware-development-engineer-in-test-product-engineering-and-lifecycle-solutions%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D130780%26rx_id%3D1cd05f80-abba-11f0-a0bf-23fe0277d953%26rx_job%3D200617415-0157_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20251019T163804Z%26rx_vp%3Dcpc%26team%3DSFTWR","Software Development Engineer in Test, Product Engineering and Lifecycle Solutions","Apple","Austin, TX, US","2025-10-17","","","","","","",False,"","","","","Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something \\- you’ll add something.” Embark on an exhilarating journey with the IS\\&T Product Engineering and Lifecycle Solutions (PELS) group as we lead an exciting transformation in next\\-generation FMD (Full Material Disclosure), Product Lifecycle Management (PLM) and PIM (Product Information Management) platforms, fueling Apple's pursuit of product innovation and regulatory compliance across our expansive hardware, software, and services domains. Collaborate with a vibrant, inclusive, and exceptionally skilled cohort of engineers who are as passionate as you are. Come craft the most significant achievements of your career alongside us!  
+
+  
+
+**Description**  
+
+  
+
+As an SDET you will play a key role in ensuring the quality of Apple's FMD (Full Material Disclosure) Platform.  
+
+  
+
+**Responsibilities**  
+
+* Collaborate with developers, product managers, and both internal and partner teams to translate business and technical requirements into clear, actionable engineering specifications.
+* Work alongside quality and performance engineers to define comprehensive test strategies, author detailed test plans and cases, develop robust automation, estimate testing efforts, and ensure smooth test execution throughout the SDLC.
+* Partner with stakeholders to define and continuously monitor quality metrics, using data\\-driven insights to drive product improvements and maintain high standards.
+* Design, develop, and optimize scalable automated test frameworks that enhance test reliability, maintainability, and execution speed across complex applications.
+* Integrate automated testing into CI/CD pipelines to enable shift\\-left testing, reduce regression risk, and support rapid, high\\-confidence software releases.
+* Author and execute detailed functional, integration, and regression test cases; analyze results to identify root causes, and ensure timely, high\\-quality bug reporting and resolution.
+
+  
+
+**Minimum Qualifications**  
+
+* Minimum of 3 years of professional experience in Software Development Engineer in Test (SDET) or software engineering roles.
+* Proven ability to design and implement test plans and automation strategies for complex, full\\-stack applications.
+* Strong hands\\-on experience in testing and automating Java\\-based web services, including both end\\-to\\-end and unit testing using frameworks like JUnit or TestNG.
+* Solid understanding of back\\-end technologies, particularly in Java and associated frameworks (e.g., Spring, Hibernate).
+* Working knowledge of browser technologies including HTML, CSS, JavaScript, and modern JavaScript frameworks such as React.
+* Experience in testing and automating browser\\-based applications across multiple platforms using tools such as Playwright, Selenium, or equivalent.
+* Familiarity with asynchronous and distributed system testing, including challenges like event sequencing, state validation, and message ordering.
+* Proficiency in relational database technologies such as Oracle or PostgreSQL, including test data creation and validation using SQL.
+* Highly self\\-motivated, proactive, and detail\\-oriented individual with excellent communication and collaboration skills.
+* Bachelor's degree or equivalent years of work experience.
+
+  
+
+**Preferred Qualifications**  
+
+* Exposure to GenAI\\-driven test generation tools or building intelligent assistants for test planning, execution, or analysis.
+* 3 years of experience in object\\-oriented programming and software design, preferably using
+* Java, JavaScript, and/or Python.
+* Familiarity with performance and reliability testing tools like JMeter, k6, or Locust.
+* Master's degree in Computer Science or equivalent years of work experience
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .  
+
+  
+
+Submit Resume","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-29fcdca3b975be12","indeed","https://www.indeed.com/viewjob?jk=29fcdca3b975be12","https://www.amazon.jobs/jobs/3111763/system-development-engineer-tech-deploy--systems-integration?cmpid=DA_INAD200785B","System Development Engineer, Tech Deploy - Systems Integration","Amazon.com","Austin, TX, US","2025-10-07","fulltime","direct_data","yearly",116300.0,201200.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Work hard. Have fun. Make history.  
+
+Our overall mission is simple: we want Amazon to be the place where our customers can find, discover, and buy anything online. Whatever our customers want, we will find the means to deliver it.
+  
+
+  
+
+As a result of continued growth, our Technology Deployment \\- Systems Integration team is now searching for an innovative and solutions\\-oriented Systems Development Engineer to be a part of our global initiative of developing and delivering the next generation of world\\-class fulfillment systems through the use of advanced technology. Successful candidates are natural self\\-starters who have prior engineering experience in the integrated automation project life cycle, including design, development, implementation, enhancement, and provision.  
+
+  
+
+System Development Engineers (SysDE’s) will be part of a new product/technology development cycle and accountable for successful delivery of equipment for further testing and evaluation. You will serve as a liaison between Fulfillment Center Operations (our customer) and product development engineers.
+  
+
+  
+
+This role will require the ability to build relationships across a cross\\-functional team and capture and synthesize the voice of the customer. Your primary goal is to own the development and improvement of the deployment process, validating and testing processes through lab and field activities. You will integrate, deploy, and troubleshoot solutions for new advanced technology systems, iterating and providing feedback to internal and external partners with each opportunity.
+  
+
+  
+
+As a working leader, you are able to take point on the implementation and delivery of complex system designs and advanced technology in ambiguous and complex problem spaces. You integrate systems for safety, security, stability, and efficiency. You participate in the full system development life cycle, working within broadly defined parameters, including test plan execution and solution quality needs.  
+
+  
+
+You must be responsive, flexible, and able to succeed within an open partnership focused environment. Amazon’s culture encourages innovation and expects engineers to take a high\\-level of ownership in solving complex problems.  
+
+  
+
+Come help us make history!  
+
+  
+
+Key job responsibilities  
+
+The following roles and responsibilities are required for a successful Systems Development Engineer:  
+
+  
+
+* Support the installation of complex cross\\-functional projects with considerable impact. Projects may span organizations or geographies in support of business goals.
+* Work with internal and external engineering teams to successfully deliver cross\\-functional projects that are of a high\\-quality (e.g., on\\-time, on\\-budget, maintainable, low\\-defects, etc.).
+* Contribute to project priorities, establishing milestones, and driving schedules to meet a deadline. Establish, capture and present KPI metrics to evaluate success and failure of project.
+* Responsible to deep dive technical solutions that encompass advanced technology applications, conveyor hardware selection, material handling integration, and commissioning content and expectations.
+* Participate in design reviews and support execution efforts between internal teams and outside vendors including equipment specifications, material flow, process design, and site layout.
+* Communicate project status, effectively answer project questions in detail, and regularly produce clear and concise summaries for the projects you own to your program management team.
+* Capture and synthesize the Voice of Customer (VoC) for all new product introductions and leverage this information to prioritize system defects and influence the triage efforts with Product Development teams applying lessons learned to enable acceleration and deployment scale.
+* Build strong working relationships with Fulfillment Center/Sort Center managementand their operations teams across multiple sites as well as their Facilities, Finance, Safety, Process Engineers, and other business stakeholders.
+* Identify process improvement initiatives in support of operations, deployment, or engineering teams within a geographic node.
+* Develop cross\\-functional knowledge of Operations and Engineering team systems, processes, procedures, and tools.
+* Collaborate with internal teams and external vendors to generate high\\-quality, cost\\-effective solutions with quick turnaround.
+* Travel up to 75% throughout North America, which can vary based on peak seasons.
+
+  
+
+A day in the life  
+
+Amazon offers a full range of benefits that support you and eligible family members, including domestic partners. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. The benefits that generally apply to regular, full\\-time employees include:  
+
+1\\. Medical, Dental, and Vision Coverage
+  
+
+2\\. Maternity and Parental Leave Options
+  
+
+3\\. Paid Time Off (PTO)
+  
+
+4\\. 401(k) Plan  
+
+If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply!
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Experience programming with at least one modern language such as C\\+\\+, C\\#, Java, Python, Golang, PowerShell, Ruby
+* Experience with Linux/Unix
+* 5\\+ years control system experience including PLC/IPC based controls design, development, implementation and support. E.g. Allen Bradley, Siemens and CODESYS systems
+* Experience with the designs of complex, automated material handling equipment, packaging technologies, or systems including robotics (FANUC, ABB, UR) and high\\-speed manufacturing.
+* Experience working technical documentation such as flow diagrams, conveyor and equipment layouts, and installation details
+* Demonstrated understanding of life\\-cycle embedded systems development including hardware (circuit and logic designs, PLCs), software (embedded operating systems and programming), testing and implementation.
+* Experience in testing and implementing software (embedded operating systems and programming).
+* Experience in industrial networking and communications including topology design and familiarity with TCP/IP and Fieldbus applications.
+* Experience with 3\\-phase electrical systems
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+
+\\- Demonstrated ability to go beyond specialization and combine controls\\- and software\\- systems engineering skills to implement new solutions at the organizational or architectural level  
+
+* Master’s degree in Engineering, Operations, Business Administration, or a related STEM field.
+* Operations Management/Distribution Center experience.
+* Exposure to Six Sigma, Lean manufacturing efforts, transportation/logistics and/or fulfillment/distribution centers.
+* Direct management or responsibility for material handling, automation, or technical projects.
+* Proven technical leadership for engineering projects or programs.
+* Demonstrated design and/or implementation experience with integrated automation solutions, such as material handling systems, high\\-speed packaging lines, or manufacturing lines.
+* Experience working in an Agile environment using the Scrum methodology
+* Knowledge of professional software engineering \\& best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence
+* Experience developing web\\-based applications using AWS services (e.g., Kinesis, DynamoDB, Lambda, AppSync, Step Functions)
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $116,300/year in our lowest geographic market up to $201,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-18ef63762e493718","indeed","https://www.indeed.com/viewjob?jk=18ef63762e493718","https://www.amazon.jobs/jobs/3111767/system-development-engineer-tech-deploy--systems-integration?cmpid=DA_INAD200785B","System Development Engineer, Tech Deploy - Systems Integration","Amazon.com","Austin, TX, US","2025-10-07","fulltime","direct_data","yearly",136100.0,235200.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Work hard. Have fun. Make history.  
+
+Our overall mission is simple: we want Amazon to be the place where our customers can find, discover, and buy anything online. Whatever our customers want, we will find the means to deliver it.
+  
+
+  
+
+As a result of continued growth, our Technology Deployment \\- Systems Integration team is now searching for an innovative and solutions\\-oriented Systems Development Engineer to be a part of our global initiative of developing and delivering the next generation of world\\-class fulfillment systems through the use of advanced technology. Successful candidates are natural self\\-starters who have prior engineering experience in the integrated automation project life cycle, including design, development, implementation, enhancement, and provision.  
+
+  
+
+System Development Engineers (SysDE’s) will be part of a new product/technology development cycle and responsible for successful delivery of equipment for further testing and evaluation. You will serve as a liaison between Fulfillment Center Operations (our customer) and product development engineers.
+  
+
+  
+
+This role will require the ability to build relationships across a cross\\-functional team and capture and synthesize the voice of the customer. Your primary goal is to own the development and improvement of the deployment process, validating and testing processes through lab and field activities. You will integrate, deploy, and troubleshoot solutions for new advanced technology systems, iterating and providing feedback to internal and external partners with each opportunity.
+  
+
+  
+
+As a working leader, you are able to take the lead on the implementation and delivery of complex system designs and advanced technology in ambiguous and complex problem spaces. You integrate systems for safety, security, stability, and efficiency. You participate in the full system development life cycle, working within broadly defined parameters, including test plan execution and solution quality needs.  
+
+You must be responsive, flexible, and able to succeed within an open partnership focused environment. Amazon’s culture encourages innovation and expects engineers to take a high\\-level of ownership in solving complex problems.  
+
+  
+
+Come help us make history!  
+
+  
+
+Key job responsibilities  
+
+The following roles and responsibilities are required for a successful Systems Development Engineer:  
+
+  
+
+* Support the installation of complex cross\\-functional projects with considerable impact. Projects may span organizations or geographies in support of business goals.
+* Work with internal and external engineering teams to successfully deliver cross\\-functional projects that are of a high\\-quality (e.g., on\\-time, on\\-budget, maintainable, low\\-defects, etc.).
+* Contribute to project priorities, establishing milestones, and driving schedules to meet a deadline. Establish, capture and present KPI metrics to evaluate success and failure of project.
+* Responsible to deep dive technical solutions that encompass advanced technology applications, conveyor hardware selection, material handling integration, and commissioning content and expectations.
+* Participate in design reviews and support execution efforts between internal teams and outside vendors including equipment specifications, material flow, process design, and site layout.
+* Communicate project status, effectively answer project questions in detail, and regularly produce clear and concise summaries for the projects you own to your program management team.
+* Capture and synthesize the Voice of Customer (VoC) for all new product introductions and leverage this information to prioritize system defects and influence the triage efforts with Product Development teams applying lessons learned to enable acceleration and deployment scale.
+* Build strong working relationships with Fulfillment Center/Sort Center managementand their operations teams across multiple sites as well as their Facilities, Finance, Safety, Process Engineers, and other business stakeholders.
+* Identify process improvement initiatives in support of operations, deployment, or engineering teams within a geographic node.
+* Develop cross\\-functional knowledge of Operations and Engineering team systems, processes, procedures, and tools.
+* Collaborate with internal teams and external vendors to generate high\\-quality, cost\\-effective solutions with quick turnaround.
+* Travel up to 75% throughout North America, which can vary based on peak seasons.
+
+  
+
+A day in the life  
+
+Amazon offers a full range of benefits that support you and eligible family members, including domestic partners. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. The benefits that generally apply to regular, full\\-time employees include:  
+
+1\\. Medical, Dental, and Vision Coverage
+  
+
+2\\. Maternity and Parental Leave Options
+  
+
+3\\. Paid Time Off (PTO)
+  
+
+4\\. 401(k) Plan  
+
+If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply!  
+
+  
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Experience leading the design, automation, deployment, and support of large\\-scale infrastructure
+* Proficient experience programming with at least one modern language such as C\\+\\+, C\\#, Java, Python, Golang, PowerShell, Ruby
+* Experience with Linux/Unix
+* 10\\+ years control system experience including PLC/IPC based controls design, development, implementation and support. E.g. Allen Bradley, Siemens and CODESYS systems
+* Experience with the designs of complex, automated material handling equipment, packaging technologies, or systems including robotics (FANUC, ABB, UR) and high\\-speed manufacturing.
+* Experience working technical documentation such as flow diagrams, conveyor and equipment layouts, and installation details
+* Demonstrated understanding of life\\-cycle embedded systems development including hardware (circuit and logic designs, PLCs), software (embedded operating systems and programming), testing and implementation.
+* Experience in testing and implementing software (embedded operating systems and programming).
+* Experience in industrial networking and communications including topology design and familiarity with TCP/IP and Fieldbus applications.
+* Experience with 3\\-phase electrical systems
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+
+\\- Demonstrated ability to go beyond specialization and combine controls\\- and software\\- systems engineering skills to implement new solutions at the organizational or architectural level  
+
+* Master’s degree in Engineering, Operations, Business Administration, or a related STEM field.
+* Operations Management/Distribution Center experience.
+* Exposure to Six Sigma, Lean manufacturing efforts, transportation/logistics and/or fulfillment/distribution centers.
+* Direct management or responsibility for material handling, automation, or technical projects.
+* Proven technical leadership for engineering projects or programs.
+* Demonstrated design and/or implementation experience with integrated automation solutions, such as material handling systems, high\\-speed packaging lines, or manufacturing lines.
+* Experience working in an Agile environment using the Scrum methodology
+* Knowledge of professional software engineering \\& best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence
+* Experience developing web\\-based applications using AWS services (e.g., Kinesis, DynamoDB, Lambda, AppSync, Step Functions)
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $136,100/year in our lowest geographic market up to $235,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-97ce9dd692e727f4","indeed","https://www.indeed.com/viewjob?jk=97ce9dd692e727f4","https://www.amazon.jobs/jobs/3066653/software-dev-engineer-ii-echo-platform?cmpid=DA_INAD200785B","Software Dev Engineer II, Echo Platform","Amazon.com","Austin, TX, US","2025-08-22","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Echo Platform team is looking for software engineers interested in building Audio Frameworks and Features capabilities for Echo devices. We solve complex technical and business problems with ingenuity and simplicity. You can make history with us as we shape the future of consumer audio technology backed by Gen AI.  
+
+We are seeking passionate, curious, and talented Software Engineers who have experience and knowledge in building innovative, mission\\-critical, high\\-volume applications that will revolutionize the industry. You will have an enormous opportunity to make a significant impact on the design, architecture, and implementation of the latest Echo products used by people every day. Running with the spirit and energy of a start\\-up, our team is focused on bringing Alexa and amazing audio features in new products.  
+
+  
+
+Key job responsibilities  
+
+* Core Development Responsibilities: Design and implement embedded systems framework and services.
+
+
+Develop and maintain core audio features while helping define product features for our products used by customers.  
+
+* Technical Leadership \\& Architecture: Drive system architecture decisions and spearhead best practices that enable quality product delivery.
+
+
+Break down complex problems into simple, manageable solutions while working with cross\\-functional teams.  
+
+* Innovation \\& Design: Investigate design approaches, prototype new technology, and evaluate technical feasibility.
+
+
+Innovate new products through collaboration with fellow Amazon employees.  
+
+* Quality \\& Best Practices: Write secure, stable, testable, and maintainable code with minimal defects while being proficient in data structures and algorithms.
+
+
+Follow professional software engineering practices throughout the full development lifecycle, including coding standards, code reviews, and continuous deployments.  
+
+* Communication \\& Collaboration: Communicate effectively with users, software development teams, and management to collect requirements and describe software features and technical designs.
+
+
+Work in an Agile/Scrum environment to deliver high\\-quality software against challenging schedules.  
+
+  
+
+A day in the life  
+
+* Design and develop audio drivers, frameworks and features for current and future Echo products
+* Create and maintain critical multimedia software components
+* Collaborate with cross\\-functional teams to prototype new technologies
+* Optimize system performance across memory, storage, and CPU utilization
+* Participate in full software development lifecycle within an Agile environment
+* Debug and root cause issues efficiently
+
+  
+
+About the team  
+
+The Echo Platform team is a dynamic group of talented engineers passionate about advancing voice technology. We power the framework that brings Alexa, the world's most sophisticated voice assistant, enhanced with Gen AI capabilities. Our collaborative environment celebrates innovation, offering significant opportunities to own impactful projects and work with cutting\\-edge technologies. Team members shape the future of voice interaction while growing their careers. If you're excited about being at the forefront of AI\\-powered voice technology and want to work alongside passionate innovators, join our mission to make Alexa even smarter.**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* 3\\+ years of programming using a modern programming language such as Java, C\\+\\+, or C\\#, including object\\-oriented design experience
+* 2\\+ years of embedded firmware development experience
+* Experience with Yocto, Android, Linux systems and debugging tools.
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Bachelor's degree in computer science or equivalent
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Experience developing kernel Audio drivers, Hardware Abstraction Layer (HAL), Mixer and applications running on ALSA framework.
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-096bf0deba40d8fc","indeed","https://www.indeed.com/viewjob?jk=096bf0deba40d8fc","https://www.amazon.jobs/jobs/3041727/sr-sde-cc-hardwaresoftware-codesign-machine-learning-acceleration-systems?cmpid=DA_INAD200785B","Sr. SDE C/C++ Hardware/Software Co-Design, Machine Learning Acceleration Systems","Amazon Web Services","Austin, TX, US","2025-07-21","fulltime","direct_data","yearly",151300.0,261500.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Annapurna Labs stands at the forefront of hardware/software co\\-design, leading innovation not just within Amazon Web Services (AWS) but across the entire industry. We design and build every component of our hardware and software to create best\\-in\\-class machine learning products that accelerate customer workloads through industry leading hardware using our custom silicon solutions. If you're passionate about building the highest\\-performing, hardware\\-accelerated Machine Learning systems and want to be part of the entire journey from pre\\- through post\\-silicon development, Annapurna Labs offers an exceptional career opportunity. Join us in shaping the future of AI acceleration  
+
+  
+
+At the heart of AWS Machine Learning servers reside our custom Amazon\\-designed silicon that powers next\\-generation machine learning capabilities for our customers. We're seeking an experienced C/C\\+\\+ engineer to join our embedded software team, where you'll develop bare metal firmware that drives neural network model execution across our custom ASIC\\-based ML Accelerator chips.  
+
+  
+
+Working at the intersection of hardware and software, you'll collaborate closely with our architecture and design teams to design and implement firmware and custom hardware that enables machine learning within our accelerator chips. Our mission is ambitious: to democratize access to industry\\-leading ML infrastructure and make deep learning capabilities accessible to everyday software developers. From the ground up, you'll help design and build the foundation that makes this vision possible.  
+
+  
+
+the Annapurna Labs team operates with the agility and culture of a startup, but with the full weight of Amazon behind us and we invite you visit the link below for a glimpse inside our labs to see exactly the incredible technology and people you will work with at Annapurna Labs!  
+
+  
+
+https://www.aboutamazon.com/news/aws/take\\-a\\-look\\-inside\\-the\\-lab\\-where\\-aws\\-makes\\-custom\\-chips  
+
+  
+
+This is a fast\\-paced, challenging position, where you'll work with thought\\-leaders in multiple technology areas. You'll have high standards for yourself and everyone you work with, and you'll be constantly looking for ways to improve our products' performance, quality, and cost. We're searching for individuals who want to reach beyond what is possible today and change an industry.  
+
+  
+
+No prior ML knowledge is required for this role and you will learn about the inner workings of ML and our custom ML accelerators as part of your onboarding.  
+
+  
+
+Key job responsibilities  
+
+* Applying Software/Hardware co\\-design principles
+* Embedded software design, implementation, testing, debugging and performance improvements
+* Test suite and infrastructure design
+* Owning the design and final implementation of maintainable, documented and well tested software
+* Close collaboration with RTL designers, design verification engineers, and other software teams
+* Mentoring of software engineers on best practices, computer architecture and software design choices
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 7\\+ years of non\\-internship professional software development experience
+* 7\\+ years of programming with at least one software programming language experience
+* 7\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* 5\\+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience as a mentor, tech lead or leading an engineering team
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Bachelor's degree in computer science or equivalent
+* Experience writing firmware or bare metal software using C/C\\+\\+
+* Experience in Hardware/Software co\\-design
+* Experience with Hardware\\-In\\-The\\-Loop testing
+* Background in Computer Architecture and Design
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-fa39650fd9c5e7bb","indeed","https://www.indeed.com/viewjob?jk=fa39650fd9c5e7bb","https://www.amazon.jobs/jobs/3038305/cc-hardware--software-codesign-sde-machine-learning-acceleration-systems?cmpid=DA_INAD200785B","C/C++ Hardware / Software Co-Design SDE, Machine Learning Acceleration Systems","Amazon Web Services","Austin, TX, US","2025-06-25","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Annapurna Labs stands at the forefront of hardware/software co\\-design, leading innovation not just within Amazon Web Services (AWS) but across the entire industry. We design and build every component of our hardware and software to create best\\-in\\-class machine learning products that accelerate customer workloads through industry leading hardware using our custom silicon solutions. If you're passionate about building the highest\\-performing, hardware\\-accelerated Machine Learning systems and want to be part of the entire journey from pre\\- through post\\-silicon development, Annapurna Labs offers an exceptional career opportunity. Join us in shaping the future of AI acceleration  
+
+  
+
+At the heart of AWS Machine Learning servers reside our custom Amazon\\-designed silicon that powers next\\-generation machine learning capabilities for our customers. We're seeking an experienced C/C\\+\\+ engineer to join our embedded software team, where you'll develop bare metal firmware that drives neural network model execution across our custom ASIC\\-based ML Accelerator chips.  
+
+  
+
+Working at the intersection of hardware and software, you'll collaborate closely with our architecture and design teams to co\\-develop the firmware and custom hardware that enables machine learning within our accelerator chips. Our mission is ambitious: to democratize access to industry\\-leading ML infrastructure and make deep learning capabilities accessible to everyday software developers. From the ground up, you'll help build the foundation that makes this vision possible.  
+
+  
+
+the Annapurna Labs team operates with the agility and culture of a startup, but with the full weight of Amazon behind us and we invite you visit the link below for a glimpse inside our labs to see exactly the incredible technology and people you will work with at Annapurna Labs!  
+
+  
+
+https://www.aboutamazon.com/news/aws/take\\-a\\-look\\-inside\\-the\\-lab\\-where\\-aws\\-makes\\-custom\\-chips  
+
+  
+
+This is a fast\\-paced, challenging position, where you'll work with thought\\-leaders in multiple technology areas. You'll have high standards for yourself and everyone you work with, and you'll be constantly looking for ways to improve our products' performance, quality, and cost. We're searching for individuals who want to reach beyond what is possible today and change an industry.
+  
+
+  
+
+No prior ML knowledge is required for this role and you will learn about the inner workings of ML and our custom ML accelerators as part of your onboarding.  
+
+  
+
+Key job responsibilities  
+
+* Software / hardware architecture and co\\-design
+* Bare metal C/C\\+\\+ software development, testing, debug, and performance improvements
+* Test suite and infrastructure development
+* Developing software which can be maintained, improved upon, documented, tested, and reused
+* Close collaboration with RTL designers, design verification engineers, other software teams and customers
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+* Experience writing firmware or bare metal software using C/C\\+\\+
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-6eea28dc1d73b651","indeed","https://www.indeed.com/viewjob?jk=6eea28dc1d73b651","https://www.amazon.jobs/jobs/3005361/sr-embedded-phy-sw-engineer-wireless-systems-?cmpid=DA_INAD200785B","Sr. Embedded PHY SW Engineer, Wireless Systems","Amazon.com","Austin, TX, US","2025-06-09","fulltime","direct_data","yearly",143300.0,247600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Project Kuiper is an initiative to launch a constellation of Low Earth Orbit satellites that will provide low\\-latency, high\\-speed broadband connectivity to unserved and underserved communities around the world. As a Senior Modem Software Design Engineer you will be a part of the team participating in the definition as well as implementation of Project Kuiper’s broadband wireless communication software architecture. You will participate in all phases of physical layer software development, from architecture design, through requirements, implementation, test, and operational support. This is a unique opportunity to innovate and define novel wireless technology with few legacy constraints. The team develops the communication system of Kuiper and validates overall performance within key metrics such as throughput, latency, system availability, packet loss etc.  
+
+  
+
+Export Control Requirement  
+
+Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.  
+
+  
+
+Key job responsibilities  
+
+Design the embedded software architecture operating the Physical Layer (L1\\) Modem across multiple nodes within the Kuiper network
+  
+
+* Develop embedded software in assembly, C, and C\\+\\+ in a real\\-time operating system environment for broadband satellite communication modem systems.
+* Work with L2 MAC software teams to design and implement reliable interfaces and inter\\-process communications between the L1 and L2 software stacks.
+* Work closely with ASIC design, Verification and MAC systems and software teams to support board bring\\-up, integration, and testing.
+* Work with development teams on system integration and debugging from PHY to network layer, including interfacing with flight computer and SDN control subsystems.
+* Ability to adapt design and test activities based on current HW/SW capabilities delivered by the development teams.
+* Support system bring\\-ups and end\\-to\\-end testing using lab equipment such as Vector Signal Generators and Analyzers, Packet Generators, Channel Emulators. Contribute development\\-test bring up procedures with Linux, Python, bash scripting etc.
+* Support operations using telemetry to validate link performance over key indicators such as throughput, latency, etc.
+**BASIC QUALIFICATIONS**
+------------------------
+
+* MS degree in Computer Science or Electrical Engineering or similar.
+* 7\\+ years of non\\-internship professional embedded software development with real time constraint experience.
+* Experience should include code development methodologies, debugging, version control, and code maintenance.
+* Experience with software defined radios (SDRs) and embedded programming in C/C\\+\\+ and VHDL/Verilog is a plus.
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* PhD in Computer Science or Electrical Engineering
+* Experience in multiple access wireless communications systems such as 5G, WiFi, or other OFDM systems.
+* Knowledge of ethernet protocols such as IP, UDP, TCP, HTTP and analysis tools such as Wireshark
+* Experience in test automation setup and scripting languages such as Python/Perl/Matlab.
+* Experience with software defined radios and embedded programming in C/C\\+\\+ and VHDL/Verilog is a plus.
+* Experience with Lab test equipment such as channel emulator, spectrum analyzers and Signal and network traffic generators
+* Familiarity with modem system simulation in Matlab or C/C\\+\\+
+* Ideal candidate has a wireless communication systems or digital signal processing background, a passion for building real\\-world carrier\\-grade communication systems, and industry experience developing PHY/MAC layer software targeting embedded multicore processors in C/C\\+\\+
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $143,300/year in our lowest geographic market up to $247,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-b6ffc82cf432db20","indeed","https://www.indeed.com/viewjob?jk=b6ffc82cf432db20","https://www.amazon.jobs/jobs/2956020/sde-i--systems-runtime-and-ml-infrastructure-aws-custom-silicon-annapurna-labs?cmpid=DA_INAD200785B","SDE I - Systems, Runtime, and ML Infrastructure (AWS Custom Silicon), Annapurna Labs","Amazon Web Services","Austin, TX, US","2025-04-15","fulltime","direct_data","yearly",99500.0,200000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+At AWS, we're pioneering the future of cloud computing and AI acceleration through innovative hardware\\-software co\\-design. Our teams within Annapurna Labs and AWS AI are creating the foundation for next\\-generation cloud infrastructure that powers thousands of customers worldwide, from cutting\\-edge startups to global enterprises.  
+
+  
+
+We operate at an unprecedented scale, designing custom silicon chips, advanced networking solutions, and ML accelerators that were unimaginable just a few years ago.
+  
+
+  
+
+Our work spans from the lowest levels of hardware abstraction to high\\-performance distributed training systems, creating unique opportunities for early\\-career engineers to make significant impact across multiple domains.  
+
+  
+
+Key job responsibilities  
+
+* Develop and optimize software for custom hardware and ML infrastructure
+* Collaborate with hardware teams to understand and leverage chip architecture
+* Implement and improve networking, runtime, and system\\-level software
+* Assist in building and maintaining tools for profiling, monitoring, and debugging ML workloads
+* Contribute to the development of open\\-source ML frameworks and infrastructure projects
+* Participate in code reviews and implement best practices for software development
+* Learn and apply new technologies to solve complex engineering challenges
+
+  
+
+About the team  
+
+Candidates will be routed to specific teams based on their interests and our current needs during the application process:  
+
+  
+
+* The Elastic Network Adapter (ENA) team revolutionizes EC2 core networking, enabling enhanced networking capabilities across AWS's most critical compute instances. Here, you'll work with networking protocols and high\\-performance drivers that power millions of cloud workloads.
+
+  
+
+* Our AWS Neuron SDK team develops the complete software stack for custom ML accelerators (Inferentia and Trainium), democratizing access to AI infrastructure. This team bridges the gap between popular ML frameworks and custom hardware.
+
+  
+
+* The Machine Learning Server Software team maintains and optimizes the world's most advanced ML servers, focusing on system\\-level software that ensures peak performance of AI workloads. While we don't work directly on ML algorithms, we build the critical infrastructure that makes ML possible at scale.
+
+  
+
+* The SoC Hardware Abstraction Layer (HAL) team works at the intersection of hardware and software, developing the crucial middleware that manages our custom silicon chips. This team ensures our innovative hardware designs translate into reliable, high\\-performance solutions.
+**BASIC QUALIFICATIONS**
+------------------------
+
+* To qualify, applicants should have earned (or expect to earn) a Bachelor’s or Master’s degree between December 2022 to September 2025\\.
+* Strong programming skills in C/C\\+\\+ or Python, with solid understanding of data structures and algorithms
+* Understanding of computer architecture, operating systems, and Linux environments
+* Internship or project experience related to systems programming, networking, or ML
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Familiarity with version control systems (e.g., Git) and software development methodologies
+* Knowledge of ML concepts or frameworks (e.g., PyTorch, TensorFlow)
+* Interest in open\\-source development or contributions to technical communities
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-000003c4a396ed08","indeed","https://www.indeed.com/viewjob?jk=000003c4a396ed08","https://www.amazon.jobs/jobs/2894488/embedded-c-software-engineer-machine-learning-acceleration?cmpid=DA_INAD200785B","Embedded C++ Software Engineer, Machine Learning Acceleration","Amazon Web Services","Austin, TX, US","2025-02-04","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+
+Are you the type of engineer who thrives at the intersection of hardware and software? We're seeking passionate software engineers who love writing low\\-level C/C\\+\\+ code for embedded systems, SOCs, and microcontrollers. Our ideal candidate is a software engineer at heart but possesses a deep understanding of the hardware architecture their code will run on \\- someone who understands that every bit of data moved and every cycle of the clock matters.  
+
+  
+
+Custom Amazon designed silicon chips live at the heart of AWS Machine Learning servers, enabling faster, more capable, and more accurate machine learning for our customers. We’re looking for skilled software engineers to scale the team that develops the embedded software stack critical to the functionality of these bleeding\\-edge system\\-on\\-chips (SoCs). Your software will directly drive the execution and management of hardware accelerated neural network models deep within the SOC's Neuron Cores.
+  
+
+  
+
+You'll also work closely with our architecture and design teams to drive hardware/software co\\-design, developing both firmware and custom hardware that enables ML within our accelerator chips. Our team's charter is to make deep learning pervasive for everyday software developers and to democratize access to industry leading infrastructure \\- you'll be enabling that vision from the ground up.
+  
+
+  
+
+We invite you visit the link below for a glimpse inside our labs to see exactly the incredible technology and people you will work with at Annapurna Labs!  
+
+  
+
+https://www.aboutamazon.com/news/aws/take\\-a\\-look\\-inside\\-the\\-lab\\-where\\-aws\\-makes\\-custom\\-chips  
+
+  
+
+This is a fast\\-paced, challenging position, where you'll work with thought\\-leaders in multiple technology areas. You'll have high standards for yourself and everyone you work with, and you'll be constantly looking for ways to improve our products' performance, quality, and cost. We're searching for individuals who want to reach beyond what is possible today and change an industry.
+  
+
+  
+
+You'll learn about the inner workings of ML and our accelerators as part of your onboarding, so no prior ML knowledge is required for this role, but any ML background you have will be helpful.  
+
+  
+
+Key job responsibilities  
+
+* Software / hardware architecture and co\\-design
+* Embedded software development, testing, debug, and performance improvements
+* Test suite and infrastructure development
+* Developing software which can be maintained, improved upon, documented, tested, and reused
+* Close collaboration with RTL designers, design verification engineers, and other software teams
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3\\+ years of non\\-internship professional software development experience
+* 2\\+ years of non\\-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+* Experience in embedded development in C/C\\+\\+
+
+  
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+
+  
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+
+  
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+
+  
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"li-4316530839","linkedin","https://www.linkedin.com/jobs/view/4316530839","","Software Engineer, Full Stack","Pryon","Austin, TX","2025-10-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/pryon","","","","","","","","","","","",""
+"li-4305770485","linkedin","https://www.linkedin.com/jobs/view/4305770485","","Software Engineer - Early Career","General Motors","Austin, TX","2025-10-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/general-motors","","","","","","","","","","","",""
+"li-4303445373","linkedin","https://www.linkedin.com/jobs/view/4303445373","","Software Engineer Intern","Electronic Arts (EA)","Austin, TX","2025-10-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/electronic-arts","","","","","","","","","","","",""
+"li-4315790572","linkedin","https://www.linkedin.com/jobs/view/4315790572","","Software Engineering Internship - Summer 2026","Qualcomm","Austin, TX","2025-10-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/qualcomm","","","","","","","","","","","",""
+"li-4316539720","linkedin","https://www.linkedin.com/jobs/view/4316539720","","Full-Stack Software Engineer","Trend Micro","Austin, TX","2025-10-18","","","","","","",False,"","","","","","","https://jp.linkedin.com/company/trend-micro","","","","","","","","","","","",""
+"li-4316812091","linkedin","https://www.linkedin.com/jobs/view/4316812091","","Software Engineer","Thales","Austin, TX","2025-10-18","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/thales","","","","","","","","","","","",""
+"li-4294410799","linkedin","https://www.linkedin.com/jobs/view/4294410799","","Software Developer 3","Oracle","Austin, TX","2025-10-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/oracle","","","","","","","","","","","",""
+"li-4315562484","linkedin","https://www.linkedin.com/jobs/view/4315562484","","Full Stack Software Engineer","Sandstorm","Austin, TX","2025-10-17","","","","","","",False,"","","","","","","https://www.linkedin.com/company/sandstormapp","","","","","","","","","","","",""
+"li-4315729631","linkedin","https://www.linkedin.com/jobs/view/4315729631","","Software Engineer","Visa","Austin, TX","2025-10-17","","","","","","",False,"","","","","","","https://www.linkedin.com/company/visa","","","","","","","","","","","",""
+"li-4316027463","linkedin","https://www.linkedin.com/jobs/view/4316027463","","Software Engineer - Web Development","Resideo","Austin, TX","2025-10-17","","","","","","",False,"","","","","","","https://www.linkedin.com/company/resideo1","","","","","","","","","","","",""
+"li-4303760538","linkedin","https://www.linkedin.com/jobs/view/4303760538","","Software Engineer","Q2","Austin, TX","2025-10-17","","","","","","",False,"","","","","","","https://www.linkedin.com/company/q2software","","","","","","","","","","","",""
+"li-4313385458","linkedin","https://www.linkedin.com/jobs/view/4313385458","","Software Developer for Data Science","BASF","Austin, TX","2025-10-17","","","","","","",False,"","","","","","","https://de.linkedin.com/company/basf","","","","","","","","","","","",""
+"li-4316063755","linkedin","https://www.linkedin.com/jobs/view/4316063755","","Undergrad Applications Developer Intern - Industries","Lensa","Austin, TX","2025-10-17","","","","","","",False,"","","","","","","https://www.linkedin.com/company/lensa","","","","","","","","","","","",""
+"li-4316043111","linkedin","https://www.linkedin.com/jobs/view/4316043111","","Compiler Engineer, LLVM- New College Grad 2025","NVIDIA","Austin, TX","2025-10-17","","","","","","",False,"","","","","","","https://www.linkedin.com/company/nvidia","","","","","","","","","","","",""
+"li-4313391893","linkedin","https://www.linkedin.com/jobs/view/4313391893","","Software Developer 3","Oracle","Austin, TX","2025-10-17","","","","","","",False,"","","","","","","https://www.linkedin.com/company/oracle","","","","","","","","","","","",""
+"li-4205595483","linkedin","https://www.linkedin.com/jobs/view/4205595483","","Software Engineer (Backend)","Setpoint","Austin, TX","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/getsetpoint","","","","","","","","","","","",""
+"li-4296528228","linkedin","https://www.linkedin.com/jobs/view/4296528228","","Intern Software Engineer","Arm","Austin, TX","","","","","","","",False,"","","","","","","https://uk.linkedin.com/company/arm","","","","","","","","","","","",""
+"li-4294479857","linkedin","https://www.linkedin.com/jobs/view/4294479857","","Software Engineer","Q2","Austin, TX","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/q2software","","","","","","","","","","","",""
+"li-4316865352","linkedin","https://www.linkedin.com/jobs/view/4316865352","","Entry Software Developer","Lensa","Round Rock, TX","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/lensa","","","","","","","","","","","",""
+"li-4305033304","linkedin","https://www.linkedin.com/jobs/view/4305033304","","Intern AI/ML Engineer","Arm","Austin, TX","","","","","","","",False,"","","","","","","https://uk.linkedin.com/company/arm","","","","","","","","","","","",""

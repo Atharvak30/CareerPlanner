@@ -1,0 +1,19 @@
+Input Elements Analysis
+================================================================================
+
+Input #1:
+  ID:           :rf:
+  Class:        _0ef07236 f6e1d228 cb849684 _90d0b056 c3130085 _7c8e83a5 d80883f4 _5037e19e f058a54c _3ab29e8b adeacb86 _51681c09 e3b4e651 _97bba236 _675760bf e1a71684 _5799a0ba fa2592ae fb86d272 b2618f51 c72a9ef2 _0b692114 _78a69279 _19cb98d9 _01eb8c16 _26c833ed _6093e1cd _430f076b bd361404 _5881c5d5
+  Type:         text
+  Name:         
+  Placeholder:  Title, skill or Company
+  Aria-label:   None
+
+Input #2:
+  ID:           :rh:
+  Class:        _0ef07236 f6e1d228 cb849684 _90d0b056 c3130085 _7c8e83a5 d80883f4 _5037e19e f058a54c _3ab29e8b adeacb86 _51681c09 e3b4e651 _6e2c917f _58056459 _9c1cf5c2 _43407240 fa2592ae fb86d272 b2618f51 c72a9ef2 _0b692114 _78a69279 _19cb98d9 _01eb8c16 _26c833ed _09f56e12 _430f076b bd361404 _1dd0d99b _5881c5d5
+  Type:         text
+  Name:         
+  Placeholder:  City, state, or zip code
+  Aria-label:   None
+
