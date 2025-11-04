@@ -1,0 +1,17 @@
+# Core Dependencies
+selenium>=4.15.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# Airflow Dependencies (for local installation)
+apache-airflow>=2.7.0
+apache-airflow-providers-google>=10.0.0
+
+# Optional but recommended
+webdriver-manager>=4.0.0  # Auto-download ChromeDriver
+
+# Data processing
+numpy>=1.24.0
+
+# For better logging and monitoring
+colorlog>=6.7.0

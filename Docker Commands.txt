@@ -1,0 +1,60 @@
+Docker Commands:
+
+To restart with a completely clean slate:
+1. Stop everything:
+docker-compose down
+
+2. Remove all Airflow data (database, logs, everything):
+# Remove the Airflow database volume
+docker-compose down -v
+
+# Clear local log files
+rm -rf airflow/logs/*
+
+3. Start fresh:
+# Start services (this will reinitialize everything)
+docker-compose up -d
+
+# Wait about 30 seconds for initialization
+sleep 30
+
+# Check services are healthy
+docker-compose ps
+
+4. Recreate the admin user:
+docker-compose exec airflow-webserver airflow users create \
+    --username admin \
+    --firstname Admin \
+    --lastname User \
+    --role Admin \
+    --email admin@example.com \
+    --password admin123
+
+5. Set variables and trigger:
+# Set variables
+docker-compose exec airflow-webserver airflow variables set linkedin_job_queries "Software Engineer"
+docker-compose exec airflow-webserver airflow variables set linkedin_locations "San Francisco"
+docker-compose exec airflow-webserver airflow variables set linkedin_time_filter "24hrs"
+docker-compose exec airflow-webserver airflow variables set linkedin_max_jobs_per_search "3"
+docker-compose exec airflow-webserver airflow variables set linkedin_output_dir "/opt/airflow/data"
+
+# Unpause and trigger
+docker-compose exec airflow-webserver airflow dags unpause linkedin_job_scraper
+docker-compose exec airflow-webserver airflow dags trigger linkedin_job_scraper
+This completely wipes the Airflow database and starts from scratch with your updated DAG code.
+
+Now you're ready to trigger a run. The DAG should pick up these variables automatically. You can: Unpause and trigger:
+docker-compose exec airflow-webserver airflow dags unpause linkedin_job_scraper
+docker-compose exec airflow-webserver airflow dags trigger linkedin_job_scraper
+Monitor the run:
+# Check status
+docker-compose exec airflow-webserver airflow dags list-runs -d linkedin_job_scraper
+
+# Watch logs in real-time
+docker-compose logs -f airflow-scheduler | grep -i "linkedin_job_scraper\|ERROR"
+Once it runs, check for the custom logger output in:
+logs/[timestamp]_airflow_dag/ - Your detailed debug logs with screenshots
+airflow/logs/dag_id=linkedin_job_scraper/ - Airflow task logs
+
+#check airflow time
+docker-compose exec -T airflow-scheduler date
